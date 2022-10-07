@@ -16,7 +16,7 @@
   		
   		</div>
       <div class="col-md-4 float-left text-white">
-        <large><b>Simple Forum/Disucssion System</b></large>
+        <large><b>Discussion Forum</b></large>
       </div>
       <div class="col-md-4 float-left">
         <form id="manage-search">
