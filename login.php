@@ -86,7 +86,7 @@ div#login-right::before {
   		<div id="login-right">
   			<div class="card col-md-8">
   				<div class="card-body">
-  						
+					<h2> Discussion Forum </h2>	
   					<form id="login-form" >
   						<div class="form-group">
   							<label for="username" class="control-label">Username</label>
